@@ -111,7 +111,7 @@ if(isset($_COOKIE['user_id'])){
       <div class="box">
          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
          <div class="user">
-            <img src="images/dreier-peter.jpg" alt="">
+            <img src="images/pic1.jpg" alt="">
             <div>
                <h3>john deo</h3>
                <div class="stars">
@@ -128,7 +128,7 @@ if(isset($_COOKIE['user_id'])){
       <div class="box">
          <p>Lorem ipsum dolor git quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
          <div class="user">
-            <img src="images/dawn-Gia.jpg" alt="">
+            <img src="images/pic2.jpg" alt="">
             <div>
                <h3>john deo</h3>
                <div class="stars">
@@ -145,7 +145,7 @@ if(isset($_COOKIE['user_id'])){
       <div class="box">
          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
          <div class="user">
-            <img src="images/starbir.jpg" alt="">
+            <img src="images/pic3.jpg" alt="">
             <div>
                <h3>john deo</h3>
                <div class="stars">
@@ -162,7 +162,7 @@ if(isset($_COOKIE['user_id'])){
       <div class="box">
          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
          <div class="user">
-            <img src="images/edennis3.jpg" alt="">
+            <img src="images/pic4.jpg" alt="">
             <div>
                <h3>john deo</h3>
                <div class="stars">
@@ -179,7 +179,7 @@ if(isset($_COOKIE['user_id'])){
       <div class="box">
          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
          <div class="user">
-            <img src="images/youn.jpg" alt="">
+            <img src="images/pic5.jpg" alt="">
             <div>
                <h3>john deo</h3>
                <div class="stars">
@@ -196,7 +196,7 @@ if(isset($_COOKIE['user_id'])){
       <div class="box">
          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
          <div class="user">
-            <img src="images/ASK-2.jpg" alt="">
+            <img src="images/pic6.jpg" alt="">
             <div>
                <h3>john deo</h3>
                <div class="stars">
