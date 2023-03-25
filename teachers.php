@@ -44,7 +44,7 @@ if(isset($_COOKIE['user_id'])){
 
       <div class="box offer">
          <h3>become a tutor</h3>
-         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum, magnam!</p>
+         <p>Tutors act as a helping hand to put struggling students back on track when they fall behind in their studies. They are masters in their subjects who have a proven history of academic excellence and are hoping to pass this knowledge on. To be successful in their career, a tutor must exhibit an enormous amount of patience, communication, and empathy</p>
          <a href="admin/register.php" class="inline-btn">get started</a>
       </div>
 
