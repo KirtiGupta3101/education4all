@@ -6,7 +6,7 @@
   ## Theme: Sustainable Development<Br>
 
 # Introduction:
- This is a website which provides a platform to local business owners to grow their business and increase their business scalability by providing promotions/advertisement to the companies on different social media platforms and also provides collaboration with big companies.
+ Education empowers learners of all ages with the knowledge, skills, values and attitudes to address the interconnected global challenges we are facing, including climate change, environmental degradation, loss of biodiversity, poverty and inequality.
   
   
 # Demo Video Link:<Br>
