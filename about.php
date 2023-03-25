@@ -41,7 +41,7 @@ if(isset($_COOKIE['user_id'])){
 
       <div class="content">
          <h3>Why Choose Us?</h3>
-         <p>Lorem 😭expedita quisquam.</p>
+         <p>We have a local and national reputation for excellence due to the outstanding quality of our teaching and support and the resulting high levels of student aspiration and achievements. We will help you realise your potential, maximise your results and achieve success, at College and in the future.</p>
          <a href="courses.html" class="inline-btn">our courses</a>
       </div>
 
