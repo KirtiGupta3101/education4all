@@ -13,7 +13,7 @@
   [VIDEO](.............)
   
 # Presentation Link:<Br>
-  [PPT](...........)<Br>
+  [PPT](https://mnnitedu-my.sharepoint.com/:p:/g/personal/kirti_20205086_mnnit_ac_in/EUM9mRWIn_NOoDbLSsbjBIUB3zLcdcn4U_s2YJar-J-OyA?e=GcJYL7)<Br>
 
 # Technology Stack:<Br>
  <p align="left">
