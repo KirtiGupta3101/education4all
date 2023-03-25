@@ -113,7 +113,7 @@ if(isset($_COOKIE['user_id'])){
          <div class="user">
             <img src="images/pic1.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Shweta raj jyoti</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -132,8 +132,6 @@ if(isset($_COOKIE['user_id'])){
             <div>
                <h3>Felipe Matheus</h3>
                <div class="stars">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star-half-alt"></i>
@@ -177,11 +175,11 @@ if(isset($_COOKIE['user_id'])){
       </div>
 
       <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
+         <p>Students to attend classes from anywhere,also have an easier time fitting both school and work schedules into their lives.</p>
          <div class="user">
             <img src="images/pic5.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>darwin methew</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -194,11 +192,11 @@ if(isset($_COOKIE['user_id'])){
       </div>
 
       <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
+         <p>Students that want to practice self-discipline can purchase courses and set a weekly schedule to follow. If they need the course to attain a certain certificate or to meet certain job or education requirements this can be extremely motivating.</p>
          <div class="user">
             <img src="images/pic6.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Maddie Martin</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
