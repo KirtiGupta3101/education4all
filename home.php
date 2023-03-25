@@ -53,22 +53,22 @@ $total_bookmarked = $select_bookmark->rowCount();
          if($user_id != ''){
       ?>
       <div class="box">
-         <h3 class="title">likes and comments</h3>
-         <p>total likes : <span><?= $total_likes; ?></span></p>
+         <h3 class="title">Likes👍& Comments📝</h3>
+         <p>Total Likes : <span><?= $total_likes; ?></span></p>
          <a href="likes.php" class="inline-btn">view likes</a>
-         <p>total comments : <span><?= $total_comments; ?></span></p>
+         <p>Total Comments : <span><?= $total_comments; ?></span></p>
          <a href="comments.php" class="inline-btn">view comments</a>
-         <p>saved playlist : <span><?= $total_bookmarked; ?></span></p>
+         <p>Saved Playlist : <span><?= $total_bookmarked; ?></span></p>
          <a href="bookmark.php" class="inline-btn">view bookmark</a>
       </div>
       <?php
          }else{ 
       ?>
       <div class="box" style="text-align: center;">
-         <h3 class="title">please login or register</h3>
+         <h3 class="title">Please Login or Register</h3>
           <div class="flex-btn" style="padding-top: .5rem;">
-            <a href="login.php" class="option-btn">login</a>
-            <a href="register.php" class="option-btn">register</a>
+            <a href="login.php" class="option-btn">Login</a>
+            <a href="register.php" class="option-btn">Register</a>
          </div>
       </div>
       <?php
@@ -76,21 +76,21 @@ $total_bookmarked = $select_bookmark->rowCount();
       ?>
 
       <div class="box">
-         <h3 class="title">top categories</h3>
+         <h3 class="title">📌Top Categories</h3>
          <div class="flex">
-            <a href="search_course.php?"><i class="fas fa-code"></i><span>development</span></a>
-            <a href="#"><i class="fas fa-chart-simple"></i><span>business</span></a>
-            <a href="#"><i class="fas fa-pen"></i><span>design</span></a>
-            <a href="#"><i class="fas fa-chart-line"></i><span>marketing</span></a>
-            <a href="#"><i class="fas fa-music"></i><span>music</span></a>
-            <a href="#"><i class="fas fa-camera"></i><span>photography</span></a>
-            <a href="#"><i class="fas fa-cog"></i><span>software</span></a>
-            <a href="#"><i class="fas fa-vial"></i><span>science</span></a>
+            <a href="search_course.php?"><i class="fas fa-code"></i><span>Development</span></a>
+            <a href="#"><i class="fas fa-chart-simple"></i><span>Business</span></a>
+            <a href="#"><i class="fas fa-pen"></i><span>Design</span></a>
+            <a href="#"><i class="fas fa-chart-line"></i><span>Marketing</span></a>
+            <a href="#"><i class="fas fa-music"></i><span>Music</span></a>
+            <a href="#"><i class="fas fa-camera"></i><span>Photography</span></a>
+            <a href="#"><i class="fas fa-cog"></i><span>Software</span></a>
+            <a href="#"><i class="fas fa-vial"></i><span>Science</span></a>
          </div>
       </div>
 
       <div class="box">
-         <h3 class="title">popular topics</h3>
+         <h3 class="title">📌Popular Topics</h3>
          <div class="flex">
             <a href="#"><i class="fab fa-html5"></i><span>HTML</span></a>
             <a href="#"><i class="fab fa-css3"></i><span>CSS</span></a>
@@ -102,8 +102,8 @@ $total_bookmarked = $select_bookmark->rowCount();
       </div>
 
       <div class="box tutor">
-         <h3 class="title">become a tutor</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, laudantium.</p>
+         <h3 class="title">🧑‍🎓Become a Tutor</h3>
+         <p>Tutors act as a helping hand to put struggling students back on track when they fall behind in their studies. They are masters in their subjects who have a proven history of academic excellence and are hoping to pass this knowledge on. To be successful in their career, a tutor must exhibit an enormous amount of patience, communication, and empathy.</p>
          <a href="admin/register.php" class="inline-btn">get started</a>
       </div>
 
@@ -117,7 +117,7 @@ $total_bookmarked = $select_bookmark->rowCount();
 
 <section class="courses">
 
-   <h1 class="heading">latest courses</h1>
+   <h1 class="heading">📌Latest Courses</h1>
 
    <div class="box-container">
 
@@ -147,7 +147,7 @@ $total_bookmarked = $select_bookmark->rowCount();
       <?php
          }
       }else{
-         echo '<p class="empty">no courses added yet!</p>';
+         echo '<p class="empty">No courses added yet!</p>';
       }
       ?>
 
