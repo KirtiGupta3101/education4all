@@ -126,7 +126,7 @@ if(isset($_COOKIE['user_id'])){
       </div>
 
       <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
+         <p>Lorem ipsum dolor git quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
          <div class="user">
             <img src="images/dawn-Gia.jpg" alt="">
             <div>
