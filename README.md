@@ -1,6 +1,7 @@
 # Hack36 Template Readme
-![Built-At-Hack36](https://user-images.githubusercontent.com/81436968/164947481-12023b54-3fad-4196-801d-694ddc57f5db.png)
-<hr>
+
+<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
+
 
   ## Team Name: Don't_know<Br>
   ## Theme: Sustainable Development<Br>
@@ -27,5 +28,5 @@
 2.[Shweta Srivastava](https://github.com/Shweta2254)
 # Made at:<Br>  
   
-![Built-At-Hack36](https://user-images.githubusercontent.com/81436968/164947481-12023b54-3fad-4196-801d-694ddc57f5db.png)
+<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
 
