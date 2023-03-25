@@ -36,7 +36,7 @@ if(isset($_COOKIE['user_id'])){
    <div class="row">
 
       <div class="image">
-         <img src="images/02.jpg" alt="">
+         <img src="images/021.jpg" alt="">
       </div>
 
       <div class="content">
